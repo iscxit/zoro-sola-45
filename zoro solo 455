@@ -1,0 +1,11 @@
+# Programa simples para somar dois números decimais
+
+# Solicita ao usuário para inserir dois números e os armazena como floats
+num1 = float(input("Digite o primeiro número: "))
+num2 = float(input("Digite o segundo número: "))
+
+# Calcula a soma dos dois números e a armazena em uma variável
+soma = num1 + num2
+
+# Exibe o resultado
+print("A soma é:", soma)
